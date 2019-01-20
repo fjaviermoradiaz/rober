@@ -1,0 +1,5 @@
+rootProject.name = 'command-service'
+include 'command-persistence'
+include 'command-business'
+include 'command-api'
+
